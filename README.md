@@ -2,4 +2,4 @@
 
 
 
-![preview](sceenshot/screen-shot-1.png)
+![preview](screenshot/screen-shot-1.png)
